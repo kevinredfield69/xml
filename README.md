@@ -1,2 +1,1 @@
-# xml
-Carpeta para proyecto XML
+# Proyecto XML
